@@ -1,0 +1,6 @@
+reptyr
+ptrace
+*.o
+*.d
+/.vagrant/
+.idea/
